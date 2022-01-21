@@ -1,0 +1,7 @@
+- Create Database
+- Copy example.env file and make .env file
+- Run Command
+    - composer install
+    - yarn
+    - php artisan migrate:fresh --seed
+    - yarn run watch
